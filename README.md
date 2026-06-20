@@ -63,21 +63,28 @@ It demonstrates supervised learning workflows with **Logistic Regression** and *
  
 │
 ├── notebooks/
+
 │   └── Adult_Census_Income_project.ipynb
 
 │
 ├── src/
+
 │   └── preprocessing.py
+
 │   └── train_models.py
 
 │
 ├── results/
+
 │   └── Logistic Regression_confusion_matrix.png
+
 │   └── Random Forest_confusion_matrix.png
+
 │   └── roc_curve.png
 
 │
 ├── README.md
+
 └── requirements.txt
 
 ---
